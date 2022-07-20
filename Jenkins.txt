@@ -1,0 +1,72 @@
+
+
+http://192.168.0.82/gerrit/#/admin/projects/
+
+
+Jenkins URL: 
+========================================
+  http://192.168.0.174:8080
+
+ User:  devops-team
+Password: E";6djYa4+v>Sa*8
+
+User :     deployer
+Pswd :    ]qgD>H3$5\V8A$g*
+
+====================================================
+VPN USERNAME: hari.derangula
+
+VPN Password: rNer2{;8g=E%mRV$
+
+
+Jenkins Url:
+============================
+ http://192.168.0.174:8080
+
+deployer 
+
+P$R4}W?N^?
+====================================
+
+Forticlient Password
+==========================================
+username:- 910004778
+password:- Tcl@12345
+
+===========================================
+git clone URL
+===========================================
+git clone -b IBL ssh://devops@192.168.0.82:2218/Dev-Ops
+
+===============================================
+
+
+BL QA is not working
+While triggering the BL QA application internal server occurred
+=========================================================
+PubkeyAcceptedKeyTypes ssh-rsa
+
+HostKeyAlgorithms +ssh-rsa,ssh-dss
+================================================================
+                                                                                                                                                               
+
+
+82--git
+74--- Maven
+
+
+https://newuatinduseasycredit.indusind.com/APIGateway
+  
+
+=====================================================================
+If we get any errors while running npm install, then use below commands
+-------------------------------------------------------------------------------------------------------------------
+npm config set https-proxy http://username:password@192.168.6.80:3111
+npm config delete proxy
+npm config delete https-proxy
+
+npm config set registry http://registry.npmjs.org/
+npm i
+npm install -g @angular/cli
+=======================================================================
+
